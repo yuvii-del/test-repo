@@ -1,1 +1,1 @@
- Adding new line 
+ Adding new line is valid
